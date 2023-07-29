@@ -1,0 +1,52 @@
+/*
+- website-11 dynamic e-comarce
+- designed & developed by Mayank
+- copyright by Mayank
+- CSS : css/style
+*/
+:root
+{
+    --hot:grren;
+}
+::-webkit-scrollbar
+{
+    width:0.5rem;
+    background: var(--white);
+}
+::-webkit-scrollbar-thumb
+{
+    border-radius: 10px;
+    background: var(--gray);
+}
+/*
+    ------------------
+    | BOOTSTRAP ICON |
+    ------------------
+*/
+@import url("bootstrap-icons.css");
+/*
+    bi class style
+*/
+.bi {
+    margin:0;
+    font-size: 1rem;
+}
+span[class="bi"]
+{
+    margin: 0;
+    padding: 0;
+}
+/*
+    ICON CSS
+*/
+body
+{
+    scroll-behavior: smooth;
+}
+/*
+    footer section =================================
+*/
+
+/*
+	THE END ===
+*/
