@@ -1,6 +1,6 @@
 # Website 11
 
-- Name : "E-Commerce"
+- Name : "?"
 
 - Description : "ecommerce cloths and wears dynamic website"
 
@@ -24,7 +24,9 @@
 
 - CopyRight : { Mayank }
 
-- URL : https://mayankdevil.github.io/website-11/
+<!--
+
+- URL : https://mayankdevil.github.io/website-11/ 
 
 - Clone : https://github.com/MayankDevil/website-11.git
 
@@ -44,5 +46,6 @@
 
 _Using bootstap colour themes_
 
+-->
 
 
